@@ -51,5 +51,34 @@ elif x < y:
 else:
     print('x is equal to y')
 
+print('===============================')
+
+a = .1
+b = .2
+if a + b == .3:
+    print('If!')
+else:
+    print('Else!')
+    
+print('===============================')
+
+if round(a + b, 4) == .3:
+    print('If!')
+else:
+    print('Else!')
+
+print('===============================')
+
+if a + b - 0.3 < 0.0000001:
+    print('If!')
+else:
+    print('Else!')
+
+print('===============================')
+
+
+
+
+
 
 
