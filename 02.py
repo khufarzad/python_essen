@@ -76,9 +76,16 @@ else:
 
 print('===============================')
 
+name = input('Please Enter Your Name: ')
+print('Your Name Is:', name)
+age = input('Please Enter Your Age: ')
+print(f'Your Age is {age} Years, {age * 12} Months, {age * 12 * 365} Days.')
 
+print('===============================')
 
+fname = 'Hossein'
+lname = 'Abazari'
 
-
+full_name = fname + ' ' + lname
 
 
