@@ -26,6 +26,13 @@ print(f'x-3 <= y: {x}-3 <= {y}: {x-3 <= y}')
 print(f'x == y: {x} == {y}: {x == y}')
 print(f'x != y: {x} != {y}: {x != y}')
 
+# False Booleans:
+# False
+# None
+# ''
+# 0
+# ()
+
 
 
 
