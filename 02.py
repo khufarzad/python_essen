@@ -16,11 +16,15 @@ x % y = {x} % {y} = {x%y}
 """
 )
 
+print('False:', False, ', type(False)', type(False))
+print(f'True: {True} , type(True) {type(True)}')
 
-
-
-
-
+print(f'x > y: {x} > {y}: {x > y}')
+print(f'x < y: {x} < {y}: {x < y}')
+print(f'x >= y: {x} >= {y}: {x >= y}')
+print(f'x-3 <= y: {x}-3 <= {y}: {x-3 <= y}')
+print(f'x == y: {x} == {y}: {x == y}')
+print(f'x != y: {x} != {y}: {x != y}')
 
 
 
