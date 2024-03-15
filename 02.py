@@ -32,7 +32,24 @@ print(f'x != y: {x} != {y}: {x != y}')
 # ''
 # 0
 # ()
+print('===============================')
 
+# if condition:
+#    statements
+
+
+# if False:
+#     print('Statement 1')
+#     print('Statement 2')
+x = 5
+y = 5
+
+if x > y:
+    print('x is greater that y')
+elif x < y:
+    print('x is smaller that y')
+else:
+    print('x is equal to y')
 
 
 
